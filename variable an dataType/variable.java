@@ -4,6 +4,5 @@ public class variable{
         String name = "Nick";
         System.out.println(a);
         System.out.println(name + a);
-
     }
 }
